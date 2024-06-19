@@ -1,4 +1,4 @@
-# Hoja de Vida de [Tu Nombre]
+# Hoja de Vida de [Alejandro]
 
 ## Información Personal
 - **Nombre:** Alejandro Siles 
@@ -20,4 +20,4 @@
 
 ## Contacto
 - **Correo Electrónico:** SRMA0SA@gmail.com
-- **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/alejandro-s-062593314/)
+- **LinkedIn:** [perfil de LinkedIn](https://www.linkedin.com/in/alejandro-s-062593314/)
